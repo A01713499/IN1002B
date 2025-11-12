@@ -1,8 +1,9 @@
 # IN1002B- Desarrollo de proyectos de análisis de datos
 ## Módulo 4- Reto
-Paula Sofía Caballero Martínez- A01713499
-Luis Eduardo Damián Coello- A01712841
-Pablo Olivares Guerrero- A07154400
+Integrantes del equipo:  
+Paula Sofía Caballero Martínez- A01713499  
+Luis Eduardo Damián Coello- A01712841  
+Pablo Olivares Guerrero- A07154400  
 Carlos Valdés Parra- A01713955
 
 ITESM | Campus Querétaro
